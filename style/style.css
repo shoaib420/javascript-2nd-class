@@ -1,3 +1,14 @@
 body{
-    background-color: brown;
+   background-color: aqua;
+}
+
+form{
+    background-color: greenyellow;
+}
+
+form input{
+    height: 30px ;
+    width: 50px;
+    border: none;
+    border-radius: 5%;
 }
